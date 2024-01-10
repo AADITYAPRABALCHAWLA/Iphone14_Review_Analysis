@@ -22,9 +22,10 @@ Click here for R Code-[Sentiment_analysis.R](https://github.com/AADITYAPRABALCHA
 <br>
 1. **Words with occurence greater than 25**
 <br>
+
 ![image](https://github.com/AADITYAPRABALCHAWLA/Iphone14_Review_Analysis/assets/103323016/83ddfff6-5c30-4d1a-9a77-6860934f456b)
-<br>
-2. **Word cloud**
+
+2.**Word Cloud**
    <br>
    ![image](https://github.com/AADITYAPRABALCHAWLA/Iphone14_Review_Analysis/assets/103323016/b43db19d-ad05-4cb6-9e4b-100481b50ae4)
 <br>
