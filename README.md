@@ -19,8 +19,22 @@ Click here for R Code-[Sentiment_analysis.R](https://github.com/AADITYAPRABALCHA
 
 # Outputs:
 **1. R Outputs:**
+<br>
+1. **Words with occurence greater than 25**
+<br>
+![image](https://github.com/AADITYAPRABALCHAWLA/Iphone14_Review_Analysis/assets/103323016/83ddfff6-5c30-4d1a-9a77-6860934f456b)
+<br>
+2. **Word cloud**
+   <br>
+   ![image](https://github.com/AADITYAPRABALCHAWLA/Iphone14_Review_Analysis/assets/103323016/b43db19d-ad05-4cb6-9e4b-100481b50ae4)
+<br>
+3. **Product Sentiment**
+   <br>
+![image](https://github.com/AADITYAPRABALCHAWLA/Iphone14_Review_Analysis/assets/103323016/96626d90-cb9d-453d-b1bf-eec4a5ec01f9)
+<br>
 
 
-**2. Tableau Outputs:**
+**2. Tableau Output:**
+<br>
 [My Tableau Viz](https://public.tableau.com/app/profile/aaditya.prabal.chawla/viz/SentimentAnalysisofIphone14ReviewsonAmazon/Sheet1)<br>
 ![Sheet 1](https://github.com/AADITYAPRABALCHAWLA/Iphone14_Review_Analysis/assets/103323016/33107ffb-b1d6-4414-af0b-2b0b219a126d)
