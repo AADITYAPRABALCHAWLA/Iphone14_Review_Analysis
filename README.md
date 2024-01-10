@@ -17,3 +17,10 @@ Click here for my dataset that I have used in this project-[iphone14review.xlsx]
 # My Code:
 Click here for R Code-[Sentiment_analysis.R](https://github.com/AADITYAPRABALCHAWLA/Iphone14_Review_Analysis/blob/main/sentiment_analysis.R)<br>
 
+# Outputs:
+**1. R Outputs:**
+
+
+**2. Tableau Outputs:**
+[My Tableau Viz](https://public.tableau.com/app/profile/aaditya.prabal.chawla/viz/SentimentAnalysisofIphone14ReviewsonAmazon/Sheet1)<br>
+![Sheet 1](https://github.com/AADITYAPRABALCHAWLA/Iphone14_Review_Analysis/assets/103323016/33107ffb-b1d6-4414-af0b-2b0b219a126d)
