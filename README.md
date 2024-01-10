@@ -9,3 +9,5 @@ I am going to do a sentiment analysis of iphone14(256GB) reviews available at am
 5. Open the extension and login/signup and chose start export review.
 6. Reviews will be downloaded in a xlsx file.
  
+# My data file:
+Click here for my dataset that I have used in this project-[iphone14review.xlsx](https://docs.google.com/spreadsheets/d/1t2Pd8oc0Nurul6dD142XiGFde6Pb_81o57Z_YAJnpaQ/edit#gid=56648548)<br>
