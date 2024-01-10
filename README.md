@@ -1,6 +1,8 @@
 # Iphone14_Review_Analysis
 I am going to do a sentiment analysis of iphone14(256GB) reviews available at amazon.in
 
+# My kaggle Notebook:
+[Iphone14 User Review Sentiment Analysis](https://www.kaggle.com/aadityaprabalchawla/iphone14-user-review-sentiment-analysis)
 # Data Extraction:
 1. Download the chrome extension amazon review export from [this link](https://chromewebstore.google.com/detail/amazon-review-export/jilbpmenakjfpjclgjpppnflkiplmhjo?hl=en-US&utm_source=ext_sidebar)<br>
 2. Go to amazon.in
